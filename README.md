@@ -1,2 +1,2 @@
-# CeviriRehberi
-Kotlin diline hakimiyet sağlamak adına yaptığım basit çeviri kitabı mobil uygulaması.
+# CeviriRehber
+Kotlin dilinde basit bir çeviri kitabı mobil uygulaması.
